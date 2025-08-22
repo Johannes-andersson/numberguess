@@ -1,0 +1,22 @@
+{
+  "username": "johan",
+  "alpha": 0.6657308870143078,
+  "avg_attempts": 7,
+  "range_size": 100,
+  "games_played": 1,
+  "hot_cold_k": 0.16666666666666663,
+  "hint_style_stats": {
+    "hot_cold": {
+      "attempts": 0,
+      "avg_attempts": 0.0
+    },
+    "higher_lower": {
+      "attempts": 0,
+      "avg_attempts": 0.0
+    },
+    "range": {
+      "attempts": 1,
+      "avg_attempts": 7
+    }
+  }
+}
